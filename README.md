@@ -54,6 +54,8 @@ These are things you might want to look up, but don't know their name, which mak
 - [Marrio Carrion](https://www.youtube.com/c/MarioCarrion) is a very experienced Software Engineer, making videos largely about Go. His videos require some Go and Software Engineering experience in general.
 - [Golang Dojo](https://www.youtube.com/@GolangDojo/videos) is a YouTuber talking about Go (but unfortunately seems to be relatively inactive lately), which is more beginner-friendly.
 - [Nic Jackson's microservices tutorial](https://www.youtube.com/watch?v=VzBGi_n65iU&list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) is an amazing one to follow along. It is a bit outdated (e.g. using Gorilla as the web framework), but most of the material is still relevant. It's mainly how Alex learned Go before for his first job.
+- This [amazing presentation](https://www.youtube.com/watch?v=oV9rvDllKEg) from Rob Pike, one of Go's founders, talking about concurrency and parallelism.
+- Most Gophercon videos. They are available for free on YouTube.
 
 ## Useful Go open-source projects
 
@@ -66,3 +68,7 @@ Also, and this is very important: look up their dependencies. Ideally, they shou
 - [Chi](https://github.com/go-chi/chi) is a nice web framework with zero extra dependencies. We've used [Gin](https://github.com/gin-gonic/gin) and [Echo](https://github.com/labstack/echo) in the past, but if in doubt, Chi should do the trick.
 - [Cobra](https://github.com/spf13/cobra) is nice if you develop command-line applications. They suggest [Viper](https://github.com/spf13/viper) for config, but TBH 
 - [sqlx](https://github.com/jmoiron/sqlx) and to some extent [sqlc](https://github.com/sqlc-dev/sqlc) are what you will likely be using in production to interact with databases. Please, do not use [GORM](https://github.com/go-gorm/gorm), even if people still say it's cool and you need an ORM. You probably don't.
+
+## Useful VSCODE shortcuts
+
+Check out [this repository](https://github.com/Ozoniuss/toolconfigs). 
