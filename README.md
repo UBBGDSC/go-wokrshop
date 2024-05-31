@@ -42,6 +42,7 @@ These are things you might want to look up, but don't know their name, which mak
 - `receiver argument` (from where value and pointer receivers comes from): https://go.dev/tour/methods/1
 - `pointer indirection` https://go.dev/tour/methods/1
 - `uninitialized slice vs empty slice` https://stackoverflow.com/questions/44305170/nil-slices-vs-non-nil-slices-vs-empty-slices-in-go-language
+- `comparable types` (required for map keys): https://go101.org/article/type-system-overview.html#types-not-support-comparison
 
 ## Useful materials
 
