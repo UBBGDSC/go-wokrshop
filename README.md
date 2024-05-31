@@ -43,6 +43,7 @@ These are things you might want to look up, but don't know their name, which mak
 - `pointer indirection` https://go.dev/tour/methods/1
 - `uninitialized slice vs empty slice` https://stackoverflow.com/questions/44305170/nil-slices-vs-non-nil-slices-vs-empty-slices-in-go-language
 - `comparable types` (required for map keys): https://go101.org/article/type-system-overview.html#types-not-support-comparison
+- `type alias` and `type definition`: https://stackoverflow.com/questions/61247864/what-is-the-difference-between-type-alias-and-type-definition-in-go
 
 ## Useful materials
 
