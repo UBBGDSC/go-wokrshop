@@ -38,6 +38,7 @@ continuously.
 These are things you might want to look up, but don't know their name, which makes them really hard to look up.
 
 - `interface` https://go.dev/tour/methods/9
+- `embedded structs` (another way to have a struct within a struct): https://gobyexample.com/struct-embedding
 - `named return values` https://go.dev/doc/effective_go#named-results
 - `receiver argument` (from where value and pointer receivers comes from): https://go.dev/tour/methods/1
 - `pointer indirection` https://go.dev/tour/methods/1
