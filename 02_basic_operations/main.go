@@ -9,11 +9,14 @@ func exercise() {
 	fmt.Println("exercise")
 }
 
-// int, float64, bool, string
+// Most important Go types: int, float64, bool, string
+// Comprehensive type system overview: https://go101.org/article/type-system-overview.html
 
-// 1454 + 234 - 345
+// Functions are explained later, for now let's just ignore how they work.
 
+// Compute 1454 + 234 - 345
 func exercise1() {
+
 	fmt.Println(1454 + 234 - 345)
 
 	var x1, x2, x3 int
@@ -69,6 +72,8 @@ func exercise4() {
 
 }
 
+// Place the exercise inside this main function. Simply comment it out if you
+// don't want to run it.
 func main() {
 	// exercise()
 	exercise1()
